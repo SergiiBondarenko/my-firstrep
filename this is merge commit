@@ -1,0 +1,30 @@
+[33mcommit b3bb6f3c7973892f6d876a7a50f6bd812b4a8762[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: d418ae3 cbc830f
+Author: Sergii Bondarenko <levisergeyb.design@gmail.com>
+Date:   Tue Sep 20 23:31:32 2022 +0300
+
+    merge of main and feature1
+
+[33mcommit d418ae36a30a8ef98ba40897004597c07fe7f3db[m
+Author: Sergii Bondarenko <levisergeyb.design@gmail.com>
+Date:   Tue Sep 20 23:30:05 2022 +0300
+
+    third commit on main
+
+[33mcommit cbc830fc670306bf0d7c5176df123159d70bb5fc[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: Sergii Bondarenko <levisergeyb.design@gmail.com>
+Date:   Tue Sep 20 23:26:10 2022 +0300
+
+    this is feature1 commit
+
+[33mcommit 380647f169541eb966f758e8ef88d86fa26bb94d[m
+Author: Sergii Bondarenko <levisergeyb.design@gmail.com>
+Date:   Mon Sep 19 20:32:40 2022 +0300
+
+    second commit
+
+[33mcommit 1cc23027107b723fd7b37ba4c2316264d75b674a[m
+Author: Sergii Bondarenko <levisergeyb.design@gmail.com>
+Date:   Mon Sep 19 20:27:45 2022 +0300
+
+    first commit
